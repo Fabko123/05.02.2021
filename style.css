@@ -1,0 +1,75 @@
+
+.Jan{
+font-size: 40px;
+margin-top: -5rem;
+margin-right: -230px;
+}
+.Podro{
+font-size: 25px;
+}
+nav{
+display: flex;
+align-items: center;
+max-height: 15vh;
+background-color:black;
+position: fixed;
+width: 100%;
+color: white;
+}
+.obrazek{
+position: relative;
+height: 150px;
+width: 280px;
+margin-left:-40px;
+}
+
+.siemka{
+margin-top :-3rem;
+font-size: 25px;
+padding:370%;
+color: white;
+}    
+.obrazek1{
+width:100%;
+}
+.div{
+width: 100%;
+padding: 0px;
+margin-left:0px;
+height: 100%;
+}
+.obrazek2{
+width:100%;
+}
+.bg-color{
+background-color: rgb(107, 105, 105);
+}
+.odstep{
+padding-left: 25px;
+}
+.tekst2{
+font-size: 13px;
+text-align:left
+}
+.zdj1{
+width: 40%;
+height: 25%;
+overflow: hidden;
+float: right;
+padding: 10px;
+}
+.zdj2{
+width: 40%;
+height: 25%;
+float: left;
+padding: 10px;
+}
+.tekst1{
+color: blue;
+}
+.tekst1{
+color: yellow;
+}
+.kolor1{
+color: white;
+}
